@@ -12,7 +12,7 @@
       - name: 应用场景
         href: Introduction/Application-Scenarios.md
   - name: 产品定价
-    href: Pricing/Overview.md
+    href: Pricing/Billing-Overview.md
   - name: 最佳实践
     items:
     - name: 基于CPU定制的硬件优化解决方案

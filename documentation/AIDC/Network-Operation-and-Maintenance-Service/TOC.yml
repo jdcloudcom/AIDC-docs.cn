@@ -16,7 +16,7 @@
   - name: 产品定价
     items:
       - name: 产品定价
-        href: Pricing/Product-Pricing.md
+        href: Pricing/Billing-Overview.md
   - name: 入门指南
     items:
       - name: 服务开通
