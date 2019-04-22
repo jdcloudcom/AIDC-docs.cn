@@ -1,2 +1,1 @@
-# AIDC-docs.cn
-AIDC-docs
+# AIDC-docs
