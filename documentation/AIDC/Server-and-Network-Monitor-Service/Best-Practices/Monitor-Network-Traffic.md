@@ -1,14 +1,14 @@
-# ÍøÂç¶Ë¿ÚÁ÷Á¿¼à¿Ø
+# ç½‘ç»œç«¯å£æµé‡ç›‘æŽ§
 
-## ÊÊÓÃ³¡¾°
-ÍøÂçÔËÎ¬ÈËÔ±ÐèÒª¸ù¾Ý¶Ë¿ÚÁ¬½ÓµÄÒµÎñÇé¿ö£¬¶Ô²»Í¬µÄ¶Ë¿Ú»òÕßÒ»×é¶Ë¿Ú½øÐÐÁ÷Á¿¼à¿Ø£¬ÔÚÉÏÐÐ/ÏÂÐÐÁ÷Á¿³öÏÖÒì³££¬±ÈÈçÁ÷Á¿µôÁã¡¢Í»ÔöÍ»½µÊ±£¬½øÐÐ¸æ¾¯£¬²¢ÇÒ¿ÉÒÔ²é¿´ÊµÊ±²é¿´Á÷Á¿¼à¿ØÊÓÍ¼£¨10Ãë¼¶Á£¶È£©£¬ÓÃ»§»¹¿ÉÒÔ½«×Ô¼ºÖØµã¹Ø×¢µÄ¶Ë¿ÚÅäÖÃµ½ÒÇ±íÅÌÖÐ½øÐÐÍ³Ò»²é¿´¡£
+## é€‚ç”¨åœºæ™¯
+ç½‘ç»œè¿ç»´äººå‘˜éœ€è¦æ ¹æ®ç«¯å£è¿žæŽ¥çš„ä¸šåŠ¡æƒ…å†µï¼Œå¯¹ä¸åŒçš„ç«¯å£æˆ–è€…ä¸€ç»„ç«¯å£è¿›è¡Œæµé‡ç›‘æŽ§ï¼Œåœ¨ä¸Šè¡Œ/ä¸‹è¡Œæµé‡å‡ºçŽ°å¼‚å¸¸ï¼Œæ¯”å¦‚æµé‡æŽ‰é›¶ã€çªå¢žçªé™æ—¶ï¼Œè¿›è¡Œå‘Šè­¦ï¼Œå¹¶ä¸”å¯ä»¥æŸ¥çœ‹å®žæ—¶æŸ¥çœ‹æµé‡ç›‘æŽ§è§†å›¾ï¼ˆ10ç§’çº§ç²’åº¦ï¼‰ï¼Œç”¨æˆ·è¿˜å¯ä»¥å°†è‡ªå·±é‡ç‚¹å…³æ³¨çš„ç«¯å£é…ç½®åˆ°ä»ªè¡¨ç›˜ä¸­è¿›è¡Œç»Ÿä¸€æŸ¥çœ‹ã€‚
 
-## ²Ù×÷²½Öè
-1. µ¥¸ö¶Ë¿ÚµÄÁ÷Á¿¼à¿ØÅäÖÃ
-![ÅäÖÃ½çÃæ1](../../../../image/AIDC/Server-and-Network-Monitor-Service/Monitor-Network-Traffic-1.png)
-2. ¶Ë¿Ú×éµÄÁ÷Á¿¼à¿ØÅäÖÃ
-![ÅäÖÃ½çÃæ2](../../../../image/AIDC/Server-and-Network-Monitor-Service/Monitor-Network-Traffic-2.png)
-3.	µ¥¸ö¶Ë¿ÚµÄÁ÷Á¿¼à¿ØÊÓÍ¼
-![½çÃæ](../../../../image/AIDC/Server-and-Network-Monitor-Service/Monitor-Network-Traffic-3.png)
-4.¶Ë¿Ú×éµÄÁ÷Á¿¼à¿ØÊÓÍ¼
-![½çÃæ](../../../../image/AIDC/Server-and-Network-Monitor-Service/Monitor-Network-Traffic-4.png)
+## æ“ä½œæ­¥éª¤
+1. å•ä¸ªç«¯å£çš„æµé‡ç›‘æŽ§é…ç½®
+![é…ç½®ç•Œé¢1](../../../../image/AIDC/Server-and-Network-Monitor-Service/Monitor-Network-Traffic-1.png)
+2. ç«¯å£ç»„çš„æµé‡ç›‘æŽ§é…ç½®
+![é…ç½®ç•Œé¢2](../../../../image/AIDC/Server-and-Network-Monitor-Service/Monitor-Network-Traffic-2.png)
+3.	å•ä¸ªç«¯å£çš„æµé‡ç›‘æŽ§è§†å›¾
+![ç•Œé¢](../../../../image/AIDC/Server-and-Network-Monitor-Service/Monitor-Network-Traffic-3.png)
+4.ç«¯å£ç»„çš„æµé‡ç›‘æŽ§è§†å›¾
+![ç•Œé¢](../../../../image/AIDC/Server-and-Network-Monitor-Service/Monitor-Network-Traffic-4.png) 
