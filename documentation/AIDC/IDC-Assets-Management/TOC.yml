@@ -15,8 +15,7 @@ items:
   - name: 入门指南
     items:
       - name: 申请流程
-        href: Getting-Started/Application_Process.md
-  
+        href: Getting-Started/application_process.md
   - name: 操作指南
     items:
       - name: 操作指南
