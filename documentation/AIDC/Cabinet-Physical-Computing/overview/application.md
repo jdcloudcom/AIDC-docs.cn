@@ -8,4 +8,4 @@
 
 #### 应用场景二：高性能裸机
 与具有多个租户的虚拟服务器不同，可为用户提供裸机服务器使用，纯裸机服务器是单租户服务器且不提供管理程序，单纯的硬件环境可最大效率的提供“最高性能”。裸机服务器已预配置ABC（AI、大数据、云计算）多业务场景，也可以根据具体规格定制。
-![应用场景一](https://github.com/jdcloudcom/AIDC-docs.cn/blob/cn-cabinet-physical-computing/documentation/AIDC/Cabinet-Physical-Computing/image/scenarios1.png)
+![应用场景二](https://github.com/jdcloudcom/AIDC-docs.cn/blob/cn-cabinet-physical-computing/documentation/AIDC/Cabinet-Physical-Computing/image/scenarios2.png)
