@@ -9,7 +9,7 @@
     <tr>
         <td colspan="2"><B>套餐规格类型</B></td> 
         <td ><B>产品规格</B></td> 
-		<td ><B>包月价格（元）</B></td>	
+		<td ><B>包月价格（台/元）</B></td>	
     </tr>
     <tr>   
         <td rowspan="2">入门型</td>
