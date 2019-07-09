@@ -43,19 +43,6 @@ items:
   items:
       - name: 入门指南概述
         href: Getting-Started/Getting-Started.md
-- name: 操作指南
-  items:
-  status: 0
-- name: 最佳实践
-  items:
-  status: 0
-- name: 教程
-  status: 0
-- name: 问题排查
-  status: 0    
-- name: 常见问题
-  href: 
-  status: 0 
 - name: 相关资源
   items:
     - name: 文档历史记录
