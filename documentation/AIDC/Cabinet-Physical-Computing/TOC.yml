@@ -16,7 +16,8 @@ items:
       - name: 产品功能
         href: Introduction/Features.md
       - name: 产品规格
-        href: Introduction/Specifications.md
+        href: 
+        status: 0
       - name: 限制说明
         href: 
         status: 0
