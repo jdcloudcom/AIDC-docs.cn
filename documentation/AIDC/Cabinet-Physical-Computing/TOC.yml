@@ -45,39 +45,7 @@ items:
         href: Getting-Started/Getting-Started.md
 - name: 操作指南
   items:
-      - name: 使用须知
-        href:
-        status: 0 
-      - name: 资源管理
-        items:
-          - name: 查看概览
-            href:
-            status: 0
-          - name: 查看机柜列表
-            href:
-            status: 0
-          - name: 查看设备列表
-            href:
-            status: 0
-          - name: 查看公网IP列表
-            href:
-            status: 0
-          - name: 查看带宽列表
-            href:
-            status: 0
-      - name: 工单管理
-        items:
-          - name: 提交工单
-            href:
-            status: 0
-          - name: 查看工单列表
-            href:
-            status: 0
-      - name: 监控报警
-        items:
-          - name: 带宽流量
-            href:
-            status: 0
+  status: 0
 - name: 最佳实践
   items:
   status: 0
