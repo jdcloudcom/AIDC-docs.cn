@@ -10,16 +10,16 @@
     </tr>
     <tr>   
         <td rowspan="2">标准套餐</td>
-		<td >标准计算型（X86）</td>
+		<td >标准计算型(x86)</td>
 		<td >Inter Gold-6148 * 2 +32GB*12+240GB(SSD)+2TB(SSD)</td>
     </tr>
 	<tr>   
-		<td >标准存储型（X86）</td>
+		<td >标准存储型(x86)</td>
 		<td >Inter Silver-4116 * 2+32G*8+300GB*2(HDD)+1TB * 12(HDD)</td>
      </tr>
      <tr>   
 	  <td rowspan="8">国产套餐</td>
-		<td >海思计算型（ARM）</td>
+		<td >海思计算型(ARM)</td>
 		<td >鲲鹏920 * 2+16G*16+240GB*2(SSD)+960GB*6(SSD)</td>
     </tr>
 	<tr>   
@@ -98,11 +98,11 @@
 		<td > Silver-4110</br>
 		Gold-5118</br>
 		Gold-6267</td>
-		<td >16G（单条）</br>
-		32G（单条）</td>
+		<td >16G(单条)</br>
+		32G(单条)</td>
 		<td >240G/480G/960G/1.92T(SSD)</br>
 		2T/3.2T/4T(NVMe)</br>
-		6T/10T（HDD）</td>
+		6T/10T(HDD)</td>
      </tr>
     <tr style="font-size:12px;">
 	<td colspan="4">备注：</br> 
