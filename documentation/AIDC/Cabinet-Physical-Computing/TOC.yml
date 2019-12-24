@@ -25,7 +25,7 @@ items:
         href: Introduction/Application-Scenarios.md    
 - name: 产品定价
   items:
-      - name: 计费概述
+      - name: 套餐总览
         href: Pricing/Price-Overview.md
       - name: 计费规则
         href: 
