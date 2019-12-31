@@ -65,16 +65,16 @@
 	        <td ><B>硬盘</B></td>
     </tr>
 	<tr>   
-		<td >E5620 * 2</br>
-		E5-2620V2 * 2</br>
-		E5-2640V2 * 2</br>
+		<td >E5620 * 2<br>
+		E5-2620V2 * 2<br>
+		E5-2640V2 * 2<br>
 		E5-2650 * 2</td>
-		<td >32G</br>
-		64G</br>
-		128G</br>
+		<td >32G<br>
+		64G<br>
+		128G<br>
 		256G</td>
-		<td >300G*4(HDD)</br>
-		300G*8(HDD)</br>
+		<td >300G*4(HDD)<br>
+		300G*8(HDD)<br>
 		800GB*6(SSD)</td>
      </tr>
      <tr>
@@ -95,18 +95,18 @@
 	        <td ><B>硬盘</B></td>
     </tr>
 	<tr>   
-		<td > Silver-4110</br>
-		Gold-5118</br>
+		<td > Silver-4110<br>
+		Gold-5118<br>
 		Gold-6267</td>
-		<td >16G(单条)</br>
+		<td >16G(单条)<br>
 		32G(单条)</td>
-		<td >240G/480G/960G/1.92T(SSD)</br>
-		2T/3.2T/4T(NVMe)</br>
+		<td >240G/480G/960G/1.92T(SSD)<br>
+		2T/3.2T/4T(NVMe)<br>
 		6T/10T(HDD)</td>
      </tr>
     <tr style="font-size:12px;">
-	<td colspan="4">备注：</br> 
-&nbsp; &nbsp;1颗CPU，内存可选1/2/4/6/8/12条，硬盘可选NVMe最多2块，SSD最多14块，HDD最多12块（硬盘总数不得多于14块）</br> 
+	<td colspan="4">备注：<br> 
+&nbsp; &nbsp;1颗CPU，内存可选1/2/4/6/8/12条，硬盘可选NVMe最多2块，SSD最多14块，HDD最多12块（硬盘总数不得多于14块）<br> 
 &nbsp; &nbsp;2颗CPU，内存可选2/4/8/12/16/24条，NVMe及SSD最多14块，HDD最多12块（硬盘总数不得多于14块）</td> 	
     </tr>
     
