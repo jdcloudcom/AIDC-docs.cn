@@ -15,7 +15,7 @@
     </tr>
 	<tr>   
 		<td >标准存储型(x86)</td>
-		<td >Inter Silver-4116 * 2+32G*8+300GB*2(HDD)+1TB * 12(HDD)</td>
+		<td >Inter Silver-4116 * 2+32G*8+300GB*2(HDD)+10TB * 12(HDD)</td>
      </tr>
      <tr>   
 	  <td rowspan="8">国产套餐</td>
